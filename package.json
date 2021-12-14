@@ -9,7 +9,7 @@
   "author": "sumanth",
   "license": "ISC",
   "dependencies": {
-    "cbor": "^4.1.1",
+    "cbor": "^4.3.0",
     "sawtooth-sdk": "^1.0.5"
   }
 }
